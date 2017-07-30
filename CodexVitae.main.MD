@@ -15,6 +15,20 @@ Principles
 * Seek and stand for truth
 * Don't fall for your own lies
 
+Productivity
+Chapter Two: Personal Systems
+Systems and tactics for getting the most out of your life.
+* Willpower is limited. Use it wisely.
+* Burning in low priority thinking and actions into nueral pathways reduces errors and frees up mental bandwidth
+* Do you care more about quantity or quality of work? 
+* What is the first thing you do that kicks off the productive part of your day? 
+* How do you prioritize?
+* How do you sequence your day? Hard stuff first or last? Aim for low hanging fruit at the start and end of your day.
+* Do you have rules for doing the work, i.e. touch it once or GTD's "the mind is for having ideas not holding them?"
+* How do you deal with self-doubt or negative self-talk?
+* Why does productivity even matter to you?
+
+
 
 Things that made an early impact
 * The Conscience of a Hacker
