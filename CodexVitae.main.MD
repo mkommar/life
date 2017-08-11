@@ -26,8 +26,8 @@ Systems and tactics for getting the most out of your life.
 [Willpower is not reliable. Systems are.](https://medium.com/the-mission/willpower-is-limited-here-s-one-way-to-work-without-it-59e8b630ea28)
 "Limited willpower, also known as ego depletion"
 
-* Do you care more about quantity or quality of work? 
-* What is the first thing you do that kicks off the productive part of your day? [The pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) 
+* Do you care more about quantity or quality of work?
+* What is the first thing you do that kicks off the productive part of your day? [The pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 * How do you prioritize?
 * How do you sequence your day? Hard stuff first or last? Aim for low hanging fruit at the start and end of your day.
 * Do you have rules for doing the work, i.e. touch it once or GTD's "the mind is for having ideas not holding them?"
