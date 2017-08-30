@@ -40,6 +40,17 @@ Traffic data with mobile app creation
 4k YouTube videos  
 edX or udemy courses  
 conflict-free replicated data type (CRDT)  
+Augmented reality for sign-language using limb manipulation  
+* https://www.theverge.com/2016/3/21/11275462/facial-transfer-donald-trump-george-bush-video
+
+Learn Chineese  
+* Rosetta Stone subscription
+Learn Ukrainian  
+* https://www.duolingo.com/skill/uk/letters-1
+
+re-learn aerospace engineering  
+* http://www.e-booksdirectory.com/listing.php?category=143
+
 
 Diet (being healthy sucks)
 Exercise at home
