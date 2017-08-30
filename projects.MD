@@ -36,3 +36,16 @@ VR SDK
 * WebVR? Can't get it working even with nightly builds.
 
 Augmented reality
+Traffic data with mobile app creation  
+4k YouTube videos  
+edX or udemy courses  
+conflict-free replicated data type (CRDT)  
+
+Diet (being healthy sucks)
+Exercise at home
+Exercise at gym
+Cook at home
+Find places to eat
+LOSE WEIGHT!
+No sugar
+moderate caffine
