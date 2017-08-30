@@ -12,3 +12,7 @@ use jumpcloud
 MATLAB (home is cheap)
 Solidworks
 OpenFOAM
+Codex Vitae
+Coursera courses
+Udemy courses
+udacity courses
