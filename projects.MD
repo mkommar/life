@@ -1,5 +1,5 @@
 Things I want to work on  
-CFD  
+CFD (can use OpenFOAM)  
 3D printing  
 FPGA  
 Second screen app  
@@ -11,7 +11,7 @@ organize with dropmark
 use jumpcloud  
 MATLAB (home is cheap)  
 
-Aerial Robotic
+Aerial Robotic  
 * Fly RC quadcopter
 * Do coursera course
 
@@ -29,3 +29,10 @@ make blockchain
 * as node package
 * coursera course
 
+Robotics (Hydroponic plant growing)  
+Gabby-bot  
+
+VR SDK
+* WebVR? Can't get it working even with nightly builds.
+
+Augmented reality
