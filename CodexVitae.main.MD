@@ -15,6 +15,7 @@ Principles
 * Seek to understand and then to be understood either academically or personally
 * Seek and stand for truth
 * Don't fall for your own lies
+* Cultivate goodness. Particulary for me, invest in family and friends. Donations have largely been a wash and volunteering... [the results suggest intact consummatory processes, but attenuated motivational ones](http://www.nature.com/tp/journal/v4/n10/full/tp2014105a.html?foxtrotcallback=true)
 
 Productivity
 Chapter Two: Personal Systems
