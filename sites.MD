@@ -52,9 +52,6 @@ Don't trust any e-mail from here
 [nogres.com](http://nogres.com)
 might be worth it someday
 
-the.mk
-"The" Mahesh
-
 with.mk
 for friends
 
@@ -63,3 +60,6 @@ for cloths
 
 uri.mk
 tools with uri's
+
+for.mk
+for mk
